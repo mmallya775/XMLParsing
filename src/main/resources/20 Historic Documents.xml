@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents>
+    <folderid>21766870</folderid>
+    <foldertype>POL_SECURE_FOLDER</foldertype>
+    <isInboxEnabled>N</isInboxEnabled>
+    <isDLCEnabled>Y</isDLCEnabled>
+    <document>
+        <versions>
+            <version>
+                <versionId>21024419</versionId>
+                <number>BWIIPH1-ARE-ENG-SPE-00016</number>
+                <title>Specification - Spezifikation Herstellung Turm Tripod (OWT) (superseded by BWIIPH1-OWT-ENG-SPE-00001)</title>
+                <revision>01</revision>
+                <status>For Information</status>
+                <categoryName>Project Documents</categoryName>
+                <pmstatus>Superseded</pmstatus>
+                <virtuallinks>
+                    <virtuallink>
+                        <workspaceName>Borkum West II</workspaceName>
+                        <folderPath>/04 AREVA Wind (Turbine Supply)/17 Correspondence</folderPath>
+                        <version>01</version>
+                        <linkType>DYNAMIC</linkType>
+                        <userLastName>Dugdale(barred)</userLastName>
+                        <userFirstName>Karolina</userFirstName>
+                        <companyName>GL Noble Denton</companyName>
+                        <creationDate>03/08/2011</creationDate>
+                    </virtuallink>
+                </virtuallinks>
+                <customProperties>
+                    <customProperty>
+                        <name>Contractor Reference</name>
+                        <mandatory>Y</mandatory>
+                        <value>MB.BW2.S.001.Fabrication.R01.2010.07.02</value>
+                    </customProperty>
+                    <customProperty>
+                        <name>Document Type</name>
+                        <mandatory>Y</mandatory>
+                        <value>Specification</value>
+                    </customProperty>
+                    <customProperty>
+                        <name>Language</name>
+                        <mandatory>Y</mandatory>
+                        <value/>
+                    </customProperty>
+                    <customProperty>
+                        <name>Category</name>
+                        <mandatory>N</mandatory>
+                        <value/>
+                    </customProperty>
+                </customProperties>
+                <numberingProperties>
+                    <numberingProperty>
+                        <name>Project Code</name>
+                        <mandatory>Y</mandatory>
+                        <value>BWIIPH1</value>
+                    </numberingProperty>
+                    <numberingProperty>
+                        <name>Document Owner Code</name>
+                        <mandatory>Y</mandatory>
+                        <value>ARE_AREVA Multibrid</value>
+                    </numberingProperty>
+                    <numberingProperty>
+                        <name>Discipline Code</name>
+                        <mandatory>Y</mandatory>
+                        <value>ENG_Engineering</value>
+                    </numberingProperty>
+                    <numberingProperty>
+                        <name>Document Type Code</name>
+                        <mandatory>Y</mandatory>
+                        <value>SPE_Specification</value>
+                    </numberingProperty>
+                    <numberingProperty>
+                        <name>Document Number</name>
+                        <mandatory>Y</mandatory>
+                        <value>16</value>
+                    </numberingProperty>
+                </numberingProperties>
+                <company>GL Noble Denton</company>
+                <size>1348</size>
+                <filename>BWIIPH1-ARE-ENG-SPE-00016_1-0_21024419.pdf</filename>
+                <uploadedby>Karolina Dugdale(barred) (GL Noble Denton)</uploadedby>
+                <uploadeddate>04/08/2011</uploadeddate>
+                <uploadedtime>13:13 (GMT)</uploadedtime>
+                <updatedby>Karolina Dugdale(barred) (GL Noble Denton)</updatedby>
+                <updateddate>28/02/2012</updateddate>
+                <updatedtime>12:38 (GMT)</updatedtime>
+                <documentProperty name="registered">04/08/2011</documentProperty>
+                <documentProperty name="registeredby">Karolina Dugdale(barred) (GL Noble Denton)</documentProperty>
+                <documentProperty name="registeredbycompany">GL Noble Denton</documentProperty>
+                <documentProperty name="due"/>
+                <folderpath>20 Historic Documents</folderpath>
+                <folderId>21766870</folderId>
+                <dueDate/>
+                <documentState>UNLOCKED</documentState>
+                <documentProperty name="lockedby"/>
+                <documentProperty name="lockedDate"/>
+                <lockedby/>
+                <lockedDate/>
+                <doc_objectid>21024419</doc_objectid>
+                <doc_hasMarkup>N</doc_hasMarkup>
+                <doc_hasVirtualLink>Y</doc_hasVirtualLink>
+                <doc_isVirtualLink>N</doc_isVirtualLink>
+                <doc_hasAttachment>N</doc_hasAttachment>
+                <doc_hasContent>Y</doc_hasContent>
+                <doc_hasNotification>Y</doc_hasNotification>
+                <notificationHistories>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Kathrin Mentrup</not_receiver>
+                        <not_receiver_company>Trianel Windkraftwerk Borkum</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Mathias Müller</not_receiver>
+                        <not_receiver_company>Areva Wind</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Josef Pardamec</not_receiver>
+                        <not_receiver_company>GL Noble Denton</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>25/08/2011 11:20 (GMT)</not_read>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Susanne Liesen</not_receiver>
+                        <not_receiver_company>Areva Wind</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>02/11/2011 14:25 (GMT)</not_read>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Anton Keller</not_receiver>
+                        <not_receiver_company>Areva Wind</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Elke Erbendruth</not_receiver>
+                        <not_receiver_company>Areva Wind</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>12/08/2011 07:42 (GMT)</not_read>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Manfred Bernitt</not_receiver>
+                        <not_receiver_company>GL Noble Denton</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>08/08/2011 13:13 (GMT)</not_read>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Michael Hotze(barred)</not_receiver>
+                        <not_receiver_company>GL Noble Denton</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Peter  McGrath</not_receiver>
+                        <not_receiver_company>GL Noble Denton</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>28/09/2011 11:40 (GMT)</not_read>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Bastian Fehnker</not_receiver>
+                        <not_receiver_company>Trianel Windkraftwerk Borkum</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Kristin Heinssen(barred)</not_receiver>
+                        <not_receiver_company>Areva Wind</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Matthew Gleeson(barred)</not_receiver>
+                        <not_receiver_company>GL Noble Denton</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Stuart Bulloch</not_receiver>
+                        <not_receiver_company>GL Noble Denton</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>04/08/2011 13:41 (GMT)</not_date>
+                        <not_receiver>Robin Sword(barred)</not_receiver>
+                        <not_receiver_company>GL Noble Denton</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Sam Crawley(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>29/09/2011 13:26 (GMT)</not_date>
+                        <not_receiver>Matthew Gleeson(barred)</not_receiver>
+                        <not_receiver_company>GL Noble Denton</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>29/09/2011 13:30 (GMT)</not_read>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>28/02/2012 12:46 (GMT)</not_date>
+                        <not_receiver>Susanne Crezelius(barred)</not_receiver>
+                        <not_receiver_company>Areva Wind</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>28/02/2012 12:46 (GMT)</not_date>
+                        <not_receiver>Sam Crawley(barred)</not_receiver>
+                        <not_receiver_company>GL Noble Denton</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>28/02/2012 12:46 (GMT)</not_date>
+                        <not_receiver>Alan Smith</not_receiver>
+                        <not_receiver_company>GL Noble Denton</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>28/02/2012 12:46 (GMT)</not_date>
+                        <not_receiver>Peter  McGrath</not_receiver>
+                        <not_receiver_company>GL Noble Denton</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>28/02/2012 12:46 (GMT)</not_date>
+                        <not_receiver>Sonia Buzatu(barred)</not_receiver>
+                        <not_receiver_company>Areva Wind</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>01/03/2012 15:23 (GMT)</not_read>
+                    </notificationhistory>
+                    <notificationhistory>
+                        <not_sender>Karolina Dugdale(barred)</not_sender>
+                        <not_sender_company>GL Noble Denton</not_sender_company>
+                        <not_date>28/02/2012 12:46 (GMT)</not_date>
+                        <not_receiver>Kristin Heinssen(barred)</not_receiver>
+                        <not_receiver_company>Areva Wind</not_receiver_company>
+                        <not_dist>TO</not_dist>
+                        <not_read>Unread</not_read>
+                        <not_color>red</not_color>
+                    </notificationhistory>
+                </notificationHistories>
+                <doc_hasSubmittal>N</doc_hasSubmittal>
+                <doc_hasTransmittal>N</doc_hasTransmittal>
+                <doc_contentType>pdf</doc_contentType>
+                <doc_chronicalId>21024419</doc_chronicalId>
+                <doc_fileExt>pdf</doc_fileExt>
+                <ar_filename>21766870/21024419.pdf</ar_filename>
+                <ar_versionName>1.0</ar_versionName>
+                <is_current>Y</is_current>
+                <markups/>
+                <attachement/>
+                <documentProperty name="category">53207</documentProperty>
+                <documentProperty name="Project Code">BWIIPH1</documentProperty>
+                <documentProperty name="Document Owner Code">ARE</documentProperty>
+                <documentProperty name="Discipline Code">ENG</documentProperty>
+                <documentProperty name="Document Type Code">SPE</documentProperty>
+                <documentProperty name="Document Number">16</documentProperty>
+                <documentProperty name="Contractor Reference">MB.BW2.S.001.Fabrication.R01.2010.07.02</documentProperty>
+                <documentProperty name="Document Type">Specification</documentProperty>
+                <documentProperty name="Language"/>
+                <doc_isAttachment>N</doc_isAttachment>
+            </version>
+        </versions>
+        <lifecycleHistories>
+            <lifecyclehistory>
+                <changedby>Karolina Dugdale(barred)</changedby>
+                <date>28/02/2012</date>
+                <changedto>Superseded</changedto>
+                <revision>01</revision>
+                <act_version>1.0, CURRENT</act_version>
+            </lifecyclehistory>
+            <lifecyclehistory>
+                <changedby>Karolina Dugdale(barred)</changedby>
+                <date>04/08/2011</date>
+                <changedto>Issued</changedto>
+                <revision>01</revision>
+                <act_version>1.0, CURRENT</act_version>
+            </lifecyclehistory>
+            <lifecyclehistory>
+                <changedby>Karolina Dugdale(barred)</changedby>
+                <date>04/08/2011</date>
+                <changedto>New</changedto>
+                <revision>01</revision>
+                <act_version>1.0, CURRENT</act_version>
+            </lifecyclehistory>
+            <lifecyclehistory>
+                <changedby>Karolina Dugdale(barred)</changedby>
+                <date>04/08/2011</date>
+                <changedto>Pre-registered</changedto>
+                <revision>01</revision>
+                <act_version>1.0, CURRENT</act_version>
+            </lifecyclehistory>
+        </lifecycleHistories>
+        <actionsHistories>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Justus Kellner</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>14/10/2014 08:20 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Justus Kellner</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>30/09/2014 12:54 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Janine Bruns</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>15/07/2014 10:49 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Jaroslaw Majcher</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>28/05/2014 08:20 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Marcus Delin</Actionedby>
+                <act_company>Trianel Windkraftwerk Borkum</act_company>
+                <act_date>27/05/2014 09:02 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Jaroslaw Majcher</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>21/05/2014 11:09 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Klaus Kempmann</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>14/05/2014 10:14 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Download</Action>
+                <Actionedby>Gisbert Dieckmann</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>12/05/2014 15:01 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/17 Correspondence</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Download</Action>
+                <Actionedby>Gisbert Dieckmann</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>12/05/2014 14:48 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/17 Correspondence</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Hans Korenhof</Actionedby>
+                <act_company>OutSmart</act_company>
+                <act_date>07/05/2014 12:55 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Hans Korenhof</Actionedby>
+                <act_company>OutSmart</act_company>
+                <act_date>07/05/2014 11:23 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Jaroslaw Majcher</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>05/12/2013 16:16 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Download</Action>
+                <Actionedby>Jacob Kunert</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>19/11/2013 09:46 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/17 Correspondence</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Janine Bruns</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>15/11/2013 11:46 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Marvin Behrens</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>06/06/2013 10:08 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Marvin Behrens</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>05/06/2013 08:13 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Marvin Behrens</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>17/05/2013 07:21 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Marvin Behrens</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>17/05/2013 07:03 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Michael Hermann(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>16/04/2013 09:14 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Michael Hermann(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>16/04/2013 09:14 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Michael Hermann(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>16/04/2013 09:13 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Yuliya Karakas(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>17/10/2012 11:09 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Johannes Dimas</Actionedby>
+                <act_company>Trianel Windkraftwerk Borkum</act_company>
+                <act_date>28/08/2012 12:41 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/20 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Yuliya Karakas(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>09/08/2012 10:27 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/19 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>El-Hossein Khalife</Actionedby>
+                <act_company>SGS</act_company>
+                <act_date>07/08/2012 13:39 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/19 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Gunter Hirche</Actionedby>
+                <act_company>Trianel Windkraftwerk Borkum</act_company>
+                <act_date>14/06/2012 08:29 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/19 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Download</Action>
+                <Actionedby>Gisbert Dieckmann</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>04/05/2012 14:14 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/19 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Download</Action>
+                <Actionedby>Gisbert Dieckmann</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>04/05/2012 13:09 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/17 Correspondence</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Gunter Hirche</Actionedby>
+                <act_company>Trianel Windkraftwerk Borkum</act_company>
+                <act_date>04/04/2012 07:35 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/19 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Sonia Buzatu(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>01/03/2012 15:24 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/18 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Download</Action>
+                <Actionedby>Sonia Buzatu(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>01/03/2012 15:23 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/18 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Kristin Heinssen(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>28/02/2012 13:00 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/18 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Move</Action>
+                <Actionedby>Karolina Dugdale(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>28/02/2012 12:47 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/18 Historic Documents</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Information Update</Action>
+                <Actionedby>Karolina Dugdale(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>28/02/2012 12:38 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Peter  McGrath</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>28/02/2012 11:59 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Karolina Dugdale(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>28/02/2012 11:30 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Sonia Buzatu(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>23/02/2012 15:22 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/17 Correspondence</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Karolina Dugdale(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>23/02/2012 15:14 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/17 Correspondence</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Karolina Dugdale(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>23/02/2012 15:03 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Karolina Dugdale(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>23/02/2012 15:01 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Karolina Dugdale(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>23/02/2012 14:59 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Information Update</Action>
+                <Actionedby>Karolina Dugdale(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>23/02/2012 14:54 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Sonia Buzatu(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>23/02/2012 14:49 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Sonia Buzatu(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>20/02/2012 16:06 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Download</Action>
+                <Actionedby>Gunter Hirche</Actionedby>
+                <act_company>Trianel Windkraftwerk Borkum</act_company>
+                <act_date>06/02/2012 08:45 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/17 Correspondence</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Download</Action>
+                <Actionedby>René Schneider</Actionedby>
+                <act_company>Trianel Windkraftwerk Borkum</act_company>
+                <act_date>03/02/2012 10:46 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Download</Action>
+                <Actionedby>Gunter Hirche</Actionedby>
+                <act_company>Trianel Windkraftwerk Borkum</act_company>
+                <act_date>02/02/2012 15:14 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Alan Smith</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>30/01/2012 16:29 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Axel Schweighardt</Actionedby>
+                <act_company>SGS</act_company>
+                <act_date>26/01/2012 10:15 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Marcus Delin</Actionedby>
+                <act_company>Trianel Windkraftwerk Borkum</act_company>
+                <act_date>12/01/2012 15:43 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Download</Action>
+                <Actionedby>Axel Schweighardt</Actionedby>
+                <act_company>SGS</act_company>
+                <act_date>22/12/2011 11:00 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Matthew Gleeson(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>10/11/2011 13:18 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Remco Streppel</Actionedby>
+                <act_company>OutSmart</act_company>
+                <act_date>02/11/2011 14:02 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Sonia Buzatu(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>02/11/2011 08:19 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Sonia Buzatu(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>02/11/2011 08:10 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Mathias Müller</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>01/11/2011 11:15 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Mathias Müller</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>25/10/2011 14:41 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Josef Pardamec</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>07/10/2011 10:10 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Sam Crawley(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>04/10/2011 11:15 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Matthew Gleeson(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>03/10/2011 14:27 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Matthew Gleeson(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>30/09/2011 10:41 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Matthew Gleeson(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>29/09/2011 13:31 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Sam Crawley(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>29/09/2011 13:17 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Download</Action>
+                <Actionedby>Sam Crawley(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>29/09/2011 13:07 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Sam Crawley(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>29/09/2011 13:04 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Axel Schweighardt</Actionedby>
+                <act_company>SGS</act_company>
+                <act_date>28/09/2011 18:15 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>René Schneider</Actionedby>
+                <act_company>Trianel Windkraftwerk Borkum</act_company>
+                <act_date>08/09/2011 12:44 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Kristin Heinssen(barred)</Actionedby>
+                <act_company>Areva Wind</act_company>
+                <act_date>07/09/2011 10:36 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Matthew Gleeson(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>23/08/2011 07:49 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Jan Franzmann</Actionedby>
+                <act_company>SGS</act_company>
+                <act_date>12/08/2011 13:35 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Jan Franzmann</Actionedby>
+                <act_company>SGS</act_company>
+                <act_date>11/08/2011 14:50 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Manfred Bernitt</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>09/08/2011 14:52 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Manfred Bernitt</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>09/08/2011 14:45 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Manfred Bernitt</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>09/08/2011 14:39 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Manfred Bernitt</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>08/08/2011 13:18 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Manfred Bernitt</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>08/08/2011 13:16 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Manfred Bernitt</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>08/08/2011 13:16 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Karolina Dugdale(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>04/08/2011 14:29 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Karolina Dugdale(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>04/08/2011 14:28 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Open</Action>
+                <Actionedby>Matthew Gleeson(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>04/08/2011 14:24 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/17 Correspondence</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Version Uploaded</Action>
+                <Actionedby>Karolina Dugdale(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>04/08/2011 13:13 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+            <actionhistory>
+                <Action>Register</Action>
+                <Actionedby>Karolina Dugdale(barred)</Actionedby>
+                <act_company>GL Noble Denton</act_company>
+                <act_date>04/08/2011 13:09 (GMT)</act_date>
+                <folder_path>/04 AREVA Wind (Turbine Supply)/11 Specifications</folder_path>
+                <act_version>1.0, CURRENT</act_version>
+            </actionhistory>
+        </actionsHistories>
+    </document>
+</documents>
